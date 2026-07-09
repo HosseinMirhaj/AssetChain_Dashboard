@@ -1,0 +1,6 @@
+{
+  "name": "AssetChain",
+  "description": "پلتفرم خرید و فروش دارایی‌های توکنایز شده با استایل حرفه‌ای و مدرن | Real-world Asset Tokenization and Trading Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
